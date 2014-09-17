@@ -1,4 +1,4 @@
 pythonChallenge
 ===============
 
-To solve problem on python challenge
+To solve problems on python challenge and record my progress.
